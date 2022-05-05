@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Mia 
-- 👀 I’m interested in Code, Film, Art
+- 👋 Hi, I’m Mia
+- 👀 I'm a Swift Developer based in NYC
+- 🐅 I’m interested in Design, Film & Art 
 - 🌱 I’m currently learning Computer Science @ Hunter College
-- 💞️ I’m looking to collaborate on Projects
+- 💞️ I’m looking for opportunities in mobile development 
 - 📫 How to reach me: 
 Email: miaskyelena@gmail.com
 
