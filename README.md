@@ -20,7 +20,7 @@
 
 <img src= "https://www.hyperakt.com/assets/images/girls-who-code-annual-report-2021-2/GWC-Card-Assets-1.png" width="300" 
      height="200">
-<img src= "https://www.hyperakt.com/assets/images/girls-who-code-annual-report-2021-2/GWC-Card-Assets-1.png" width="300" 
+<img src= "https://mma.prnewswire.com/media/890598/CodePath_Logo.jpg?p=facebook" width="300" 
      height="200">
 
 
