@@ -16,9 +16,9 @@
 [![Mia's GitHub stats 🐈](https://github-readme-stats.vercel.app/api?username=miaskyelena&theme=nightowl&show_icons=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/miaskyelena))
 
 
- <img src= "https://pbs.twimg.com/profile_images/1527299950073217024/H3Kw4tkF_400x400.jpg" width="500" height="400"> <img src= "https://www.hyperakt.com/assets/images/girls-who-code-annual-report-2021-2/GWC-Card-Assets-1.png" width="500" 
+<img src= "https://www.hyperakt.com/assets/images/girls-who-code-annual-report-2021-2/GWC-Card-Assets-1.png" width="500" 
      height="400">
-
+<img src= "https://pbs.twimg.com/profile_images/1527299950073217024/H3Kw4tkF_400x400.jpg" width="500" height="400"> 
 
 <!---
 miaskyelena/miaskyelena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
