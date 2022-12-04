@@ -2,7 +2,7 @@
 - 🎀 Hi, I’m Mia
 - 🦩 I'm a Web and iOS Developer based in NYC
 - 💮 I’m passionate about Design, Film, and Art 
-- 🩰  I’m currently learning Computer Science @ Hunter College
+- 🩰  I’m currently earning a Bachelor's in Computer Science @ Hunter College & doing freelance web development work on the side. 
 - 📱 I’m looking for opportunities in front-end, back-end, and full-stack web developmdnt and mobile development in Swift 
 
 <hr>
