@@ -16,6 +16,9 @@
 
 [![Mia's GitHub stats 🐈](https://github-readme-stats.vercel.app/api?username=miaskyelena&theme=nightowl&show_icons=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/miaskyelena))
 
+[![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaskyelena)](https://github.com/miaskyelena/github-readme-stats)
+
+
 <hr>
 <p><em>💕 Organizations I am a part of:</em></p>
 
