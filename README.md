@@ -11,7 +11,7 @@
 <p>Email: miaskyelena@gmail.com</p>
 <p>instagram: <a href="https://www.instagram.com/mia___elena/">mia___elena</a></p>
 
-[![Mia's GitHub stats 🐈](https://github-readme-stats.vercel.app/api?username=miaskyelena)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/miaskyelena) alt="alt text" width="100%")
+[![Mia's GitHub stats 🐈](https://github-readme-stats.vercel.app/api?username=miaskyelena)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/miaskyelena))
 
 
  <img src= "https://media.tenor.com/BYPZ8VpLNpcAAAAC/studio-ghibli-whisper-of-the-heart.gif" alt="alt text" width="100%"/>
