@@ -11,6 +11,8 @@
 <p>Email: miaskyelena@gmail.com</p>
 <p>instagram: <a href="https://www.instagram.com/mia___elena/">mia___elena</a></p>
 
+<hr>
+
 [![Mia's GitHub stats 🐈](https://github-readme-stats.vercel.app/api?username=miaskyelena&theme=nightowl&show_icons=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/miaskyelena))
 
 
