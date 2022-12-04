@@ -1,4 +1,4 @@
- <img src="bike.png"/>
+
 - 🎀 Hi, I’m Mia
 - 🦩 I'm a Web and Swift Developer based in NYC
 - 💮 I’m interested in Design, Film & Art 
