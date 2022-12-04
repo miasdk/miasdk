@@ -1,9 +1,9 @@
 
 - 🎀 Hi, I’m Mia
-- 🦩 I'm a Web and Swift Developer based in NYC
-- 💮 I’m interested in Design, Film & Art 
+- 🦩 I'm a Web and iOS Developer based in NYC
+- 💮 I’m passionate about Design, Film, and Art 
 - 🩰  I’m currently learning Computer Science @ Hunter College
-- 📱 I’m looking for opportunities in web and mobile development 
+- 📱 I’m looking for opportunities in front-end, back-end, and full-stack web developmdnt and mobile development in Swift 
 
 <hr>
 
@@ -25,6 +25,7 @@
      height="200">
 <img src= "https://scontent-lga3-2.xx.fbcdn.net/v/t1.6435-9/82672771_167115367969007_7170366240458801152_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_ohc=wK9fMjsSZP8AX9PvNxl&_nc_ht=scontent-lga3-2.xx&oh=00_AfDOLKv7TbER1vRB4KWiKI--YsF9rfmtRM1UiNHbwzIq4g&oe=63B48DA9" width="300" 
      height="200">
+ <img src="https://static.wixstatic.com/media/a5019e_3f162defb3ab47a98c20208cf424e3c9~mv2.png/v1/fit/w_2500,h_1330,al_c/a5019e_3f162defb3ab47a98c20208cf424e3c9~mv2.png" width="300" height="200">
      
 
 <!---
