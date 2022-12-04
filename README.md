@@ -14,7 +14,7 @@
 [![Mia's GitHub stats 🐈](https://github-readme-stats.vercel.app/api?username=miaskyelena&theme=nightowl&show_icons=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/miaskyelena))
 
 
- <img src= "https://media.tenor.com/BYPZ8VpLNpcAAAAC/studio-ghibli-whisper-of-the-heart.gif" alt="alt text" width="100%"/>
+ <img src= "https://media.tenor.com/BYPZ8VpLNpcAAAAC/studio-ghibli-whisper-of-the-heart.gif">
  
 <!---
 miaskyelena/miaskyelena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
