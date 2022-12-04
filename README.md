@@ -11,7 +11,7 @@
 <p>Email: miaskyelena@gmail.com</p>
 <p>instagram: <a href="https://www.instagram.com/mia___elena/">mia___elena</a></p>
 
- <img src="[http://www.simbasible.com/wp-content/uploads/2017/09/1-2.gif](https://i.gifer.com/ATEd.gif)"/>
+ <img src="http://www.simbasible.com/wp-content/uploads/2017/09/1-2.gif](https://i.gifer.com/ATEd.gif"/>
 <!---
 miaskyelena/miaskyelena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
