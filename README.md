@@ -18,8 +18,10 @@
 <hr>
 <p><em>💕 Organizations I am a part of:</em></p>
 
-<img src= "https://www.hyperakt.com/assets/images/girls-who-code-annual-report-2021-2/GWC-Card-Assets-1.png" width="500" 
-     height="400">
+<img src= "https://www.hyperakt.com/assets/images/girls-who-code-annual-report-2021-2/GWC-Card-Assets-1.png" width="300" 
+     height="200">
+<img src= "https://www.hyperakt.com/assets/images/girls-who-code-annual-report-2021-2/GWC-Card-Assets-1.png" width="300" 
+     height="200">
 
 
 <!---
