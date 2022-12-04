@@ -3,7 +3,7 @@
 - 🦩 I'm a Web and Swift Developer based in NYC
 - 💮 I’m interested in Design, Film & Art 
 - 🩰  I’m currently learning Computer Science @ Hunter College
-- 📱 I’m looking for opportunities in web amd mobile development 
+- 📱 I’m looking for opportunities in web and mobile development 
 
 <hr>
 
