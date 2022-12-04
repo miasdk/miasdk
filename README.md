@@ -10,6 +10,7 @@
 - 🛼 How to reach me: 
 <p>Email: miaskyelena@gmail.com</p>
 <p>instagram: <a href="https://www.instagram.com/mia___elena/">mia___elena</a></p>
+<p>linkedIn : <a href="https://www.linkedin.com/in/miaelena/">Mia Elena</a></p>
 
 <hr>
 
