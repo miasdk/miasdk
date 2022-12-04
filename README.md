@@ -16,7 +16,7 @@
 [![Mia's GitHub stats 🐈](https://github-readme-stats.vercel.app/api?username=miaskyelena&theme=nightowl&show_icons=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/miaskyelena))
 
 
- <img src= "https://pbs.twimg.com/profile_images/1527299950073217024/H3Kw4tkF_400x400.jpg">
+ <img src= "https://pbs.twimg.com/profile_images/1527299950073217024/H3Kw4tkF_400x400.jpg"> <img src= "https://www.hyperakt.com/assets/images/girls-who-code-annual-report-2021-2/GWC-Card-Assets-1.png">
  <img src= "https://prd-sc101-cdn.rtx.com/-/media/rtx/news-images/2020/08/04/girls-who-code/gwc-video-thumb.jpg?rev=684e0dda56dc457f85db8403fc5a6a77">
 
 <!---
