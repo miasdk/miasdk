@@ -7,6 +7,7 @@
 <p>linkedin: <a href="https://www.linkedin.com/in/miaelena/">Mia Elena</a></p>
 
 <hr>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaskyelena&theme=dracula&layout=compact&bg_color=00000000&card_width=500px&custom_title=My&nbsp;Languages&nbsp;👩🏻‍💻&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
