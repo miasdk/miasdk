@@ -1,5 +1,6 @@
 
 <h1>Hi, I’m Mia 🪷</h1>
+<hr>
 <p>I'm a web developer based in NYC</p>
 <hr>
 
