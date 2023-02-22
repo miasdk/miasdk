@@ -11,7 +11,7 @@
 
 [![Mia's GitHub stats 🐈](https://github-readme-stats.vercel.app/api?username=miaskyelena&theme=radical&show_icons=true&hide_border=true&bg_color=00000000)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/miaskyelena))
 
- [![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaskyelena&theme=dark&layout=compact&bg_color=00000000&card_width=300px&custom_title=my&nbsp;languages&nbsp;👩🏻‍💻&hide_border=true)](https://github.com/miaskyelena/github-readme-stats) 
+ [![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaskyelena&theme=radical&layout=compact&bg_color=00000000&card_width=300px&custom_title=my&nbsp;languages&nbsp;👩🏻‍💻&hide_border=true)](https://github.com/miaskyelena/github-readme-stats) 
 
 
 <hr>
