@@ -11,8 +11,9 @@
 
 <table>
   <tr>
-    <td></td>
-    <td></td>
+    <td>[![Mia's GitHub stats 🐈](https://github-readme-stats.vercel.app/api?username=miaskyelena&theme=dark&show_icons=true&hide_border=true&bg_color=00000000)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/miaskyelena))</td>
+    <td>[![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaskyelena&theme=dark&layout=compact&bg_color=00000000&card_width=300px&custom_title=My&nbsp;Languages&nbsp;👩🏻‍💻&hide_border=true)](https://github.com/miaskyelena/github-readme-stats) 
+ </td>
   </tr>
 </table> 
 
