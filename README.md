@@ -1,5 +1,5 @@
 <h1>Hi, I’m Mia 🍧</h1>
-<p>I'm a web developer based in NYC</p>
+<p>I'm a web developer & designer based in NYC</p>
 <p><a href = "https://miaelena.netlify.app/">miaelena.com</a><p>
 
 - 🛼 How to reach me: 
