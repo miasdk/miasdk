@@ -1,7 +1,7 @@
 
 <h1>Hi, I’m Mia 🪷</h1>
 <p>I'm a web developer based in NYC</p>
-
+https://miaelena.netlify.app/
 
 - 🛼 How to reach me: 
 <p>email: <a href = "mailto: miaskyelena@gmail.com">miaskyelena@gmail.com</a></p>
@@ -13,7 +13,7 @@
 
  [![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaskyelena&theme=dark&layout=compact&bg_color=00000000&card_width=300px&custom_title=My&nbsp;Languages&nbsp;👩🏻‍💻&hide_border=true)](https://github.com/miaskyelena/github-readme-stats) 
  
- [![Mia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@miaskyelena)](https://github.com/anuraghazra/github-readme-stats)
+ [![Mia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@miaskyelena&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
