@@ -1,5 +1,5 @@
 
-<h1> 🎀 Hi, I’m Mia </hi>
+<h1>Hi, I’m Mia 🪷</h1>
 <p>I'm a Web developer based in NYC</p>
 <hr>
 
