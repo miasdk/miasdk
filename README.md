@@ -19,6 +19,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaskyelena&theme=dark&layout=compact&bg_color=00000000&card_width=500px&custom_title=My&nbsp;Languages&nbsp;👩🏻‍💻&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+> "You never get a second chance to make a first impression."</p>
+> — <cite>Queenie, 'New Horizons'.[^1]
+</cite>
+
+
 
 
 <hr>
