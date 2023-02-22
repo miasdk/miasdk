@@ -9,14 +9,12 @@
 
 <hr>
 
-<table>
-  <tr>
-    <td>[![Mia's GitHub stats 🐈](https://github-readme-stats.vercel.app/api?username=miaskyelena&theme=dark&show_icons=true&hide_border=true&bg_color=00000000)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/miaskyelena))</td>
-    <td>[![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaskyelena&theme=dark&layout=compact&bg_color=00000000&card_width=300px&custom_title=My&nbsp;Languages&nbsp;👩🏻‍💻&hide_border=true)](https://github.com/miaskyelena/github-readme-stats) 
- </td>
-  </tr>
-</table> 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miaskyelena&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 [![Mia's GitHub stats 🐈](https://github-readme-stats.vercel.app/api?username=miaskyelena&theme=dark&show_icons=true&hide_border=true&bg_color=00000000)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/miaskyelena))
 
  [![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaskyelena&theme=dark&layout=compact&bg_color=00000000&card_width=300px&custom_title=My&nbsp;Languages&nbsp;👩🏻‍💻&hide_border=true)](https://github.com/miaskyelena/github-readme-stats) 
