@@ -4,7 +4,7 @@
 
 
 - 🛼 How to reach me: 
-<p><a href = "mailto: miaskyelena@gmail.com">miaskyelena@gmail.com</a></p>
+<p>email: <a href = "mailto: miaskyelena@gmail.com">miaskyelena@gmail.com</a></p>
 <p>linkedin : <a href="https://www.linkedin.com/in/miaelena/">Mia Elena</a></p>
 
 <hr>
