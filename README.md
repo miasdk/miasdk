@@ -16,15 +16,6 @@
 
 <a href="https://www.youtube.com/watch?v=Sg8FMNEt8KY"><img src="https://64.media.tumblr.com/1e2121c8c85a1b6a01aec7c5126f6074/f8d318a4a6092895-85/s250x400/ab6d68a37e148947a377e610608dc1938dd1c6f0.gifv" width="50" height="50"></a>
 
- <hr>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miaskyelena&theme=dracula&show_icons=true&hide_border=true&bg_color=00000000"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@miaskyelena&theme=react&bg_color=00000000&hide_border=true"/>
-</a>
-
 <hr>
 <h1>My organizations:</h1>
 <table> 
@@ -38,6 +29,15 @@
     </td>
   </tr>
 </table>
+
+ <hr>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miaskyelena&theme=dracula&show_icons=true&hide_border=true&bg_color=00000000"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@miaskyelena&theme=react&bg_color=00000000&hide_border=true"/>
+</a>
 
 
 
