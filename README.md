@@ -20,8 +20,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaskyelena&theme=dark&layout=compact&bg_color=00000000&card_width=500px&custom_title=My&nbsp;Languages&nbsp;👩🏻‍💻&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 > "You never get a second chance to make a first impression."</p>
-> — <cite>Queenie, 'New Horizons'.[^1]
+> — <cite>Queenie, 'New Horizons'.
 </cite>
+
+<a href="https://www.youtube.com/watch?v=Sg8FMNEt8KY"><img src="https://64.media.tumblr.com/a885d55fb960eaf4456ea8371529fba9/f8d318a4a6092895-13/s250x400/76d751ba1174c0baa634892992475ab94b264665.gifv"></a>
 
 
 
