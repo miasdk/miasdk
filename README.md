@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaskyelena&theme=dracula&layout=compact&bg_color=00000000&card_width=500px&custom_title=My&nbsp;Languages&nbsp;👩🏻‍💻&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🛼 How to reach me: 
+- <h2>🛼 How to reach me:</h2> 
 <p>email: <a href = "mailto: miaskyelena@gmail.com">miaskyelena@gmail.com</a></p>
 <p>linkedin: <a href="https://www.linkedin.com/in/miaelena/">Mia Elena</a></p>
 &nbsp;
