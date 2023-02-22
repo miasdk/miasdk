@@ -14,6 +14,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=miaskyelena&theme=dracula&show_icons=true&hide_border=true&bg_color=00000000"/>
 </a>
 
+&nbsp;
 > "You never get a second chance to make a first impression."</p>
 > — <cite>Queenie, 'New Horizons'.
 </cite>
