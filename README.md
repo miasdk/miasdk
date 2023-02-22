@@ -1,6 +1,6 @@
 
 - 🎀 Hi, I’m Mia
-- 🦩 I'm a Web developer based in NYC
+I'm a Web developer based in NYC
 <hr>
 
 - 🛼 How to reach me: 
