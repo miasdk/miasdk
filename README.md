@@ -3,6 +3,8 @@
 <p>I'm a full stack web developer & designer based in NYC</p>
 <p><a href = "https://miaelena.netlify.app/">miaelena.com</a><p>
  
+ <hr>
+ 
  - 🛼 How to reach me: 
 <p>email: <a href = "mailto: miaskyelena@gmail.com">miaskyelena@gmail.com</a></p>
 <p>linkedin: <a href="https://www.linkedin.com/in/miaelena/">Mia Elena</a></p>
