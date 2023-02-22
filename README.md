@@ -9,7 +9,7 @@
 <p>email: <a href = "mailto: miaskyelena@gmail.com">miaskyelena@gmail.com</a></p>
 <p>linkedin: <a href="https://www.linkedin.com/in/miaelena/">Mia Elena</a></p>
 &nbsp;
-<hr>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=miaskyelena&theme=dracula&show_icons=true&hide_border=true&bg_color=00000000"/>
 </a>
