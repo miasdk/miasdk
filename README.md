@@ -2,20 +2,12 @@
 <h1>Hi, I’m Mia 🍧</h1>
 <p>I'm a full stack web developer & designer based in NYC</p>
 <p><a href = "https://miaelena.netlify.app/">miaelena.com</a><p>
- 
- <hr>
- 
+
  - 🛼 How to reach me: 
 <p>email: <a href = "mailto: miaskyelena@gmail.com">miaskyelena@gmail.com</a></p>
 <p>linkedin: <a href="https://www.linkedin.com/in/miaelena/">Mia Elena</a></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaskyelena&theme=dracula&layout=compact&bg_color=00000000&card_width=500px&custom_title=My&nbsp;Languages&nbsp;👩🏻‍💻&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-> "You never get a second chance to make a first impression."</p>
-> — <cite>Queenie, 'New Horizons'.
-</cite>
-
-<a href="https://www.youtube.com/watch?v=Sg8FMNEt8KY"><img src="https://64.media.tumblr.com/1e2121c8c85a1b6a01aec7c5126f6074/f8d318a4a6092895-85/s250x400/ab6d68a37e148947a377e610608dc1938dd1c6f0.gifv" width="50" height="50"></a>
 
 <hr>
 
