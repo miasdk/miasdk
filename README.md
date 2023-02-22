@@ -13,7 +13,7 @@
 
  [![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaskyelena&theme=dark&layout=compact&bg_color=00000000&card_width=300px&custom_title=My&nbsp;Languages&nbsp;👩🏻‍💻&hide_border=true)](https://github.com/miaskyelena/github-readme-stats) 
  
- [![Mia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miaskyelena)](https://github.com/anuraghazra/github-readme-stats)
+ [![Mia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@miaskyelena)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
