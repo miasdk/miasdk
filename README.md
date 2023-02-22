@@ -7,16 +7,15 @@
 <p>linkedin: <a href="https://www.linkedin.com/in/miaelena/">Mia Elena</a></p>
 
 <hr>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaskyelena&theme=dracula&layout=compact&bg_color=00000000&card_width=500px&custom_title=My&nbsp;Languages&nbsp;👩🏻‍💻&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=miaskyelena&theme=dracula&show_icons=true&hide_border=true&bg_color=00000000"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@miaskyelena&theme=react&bg_color=00000000&hide_border=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@miaskyelena&theme=dracula&bg_color=00000000&hide_border=true"/>
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaskyelena&theme=dracula&layout=compact&bg_color=00000000&card_width=500px&custom_title=My&nbsp;Languages&nbsp;👩🏻‍💻&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 > "You never get a second chance to make a first impression."</p>
 > — <cite>Queenie, 'New Horizons'.
