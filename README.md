@@ -30,9 +30,6 @@
     <td>
         <img align="center" src= "https://blog.codepath.org/wp-content/uploads/2020/06/Screen-Shot-2020-06-01-at-2.53.50-PM-1024x574.png"                    width="300" height="200">
     </td>
-    <td>
-        <img align="center" src="https://static.wixstatic.com/media/a5019e_3f162defb3ab47a98c20208cf424e3c9~mv2.png/v1/fit/w_2500,h_1330,al_c/a5019e_3f162defb3ab47a98c20208cf424e3c9~mv2.png" width="300" height="200">
-    </td>
   </tr>
 </table>
 
