@@ -22,21 +22,12 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@miaskyelena&theme=react&bg_color=00000000&hide_border=true"/>
 </a>
-<table> 
-  <tr>
-    <td>
-        <img align="center" src= "https://www.hyperakt.com/assets/images/girls-who-code-annual-report-2021-2/GWC-Card-Assets-1.png" width="200" 
+
+<img align="center" src= "https://www.hyperakt.com/assets/images/girls-who-code-annual-report-2021-2/GWC-Card-Assets-1.png" width="200" 
          height="120">
-    </td>
-    <td>
-        <img align="center" src= "https://blog.codepath.org/wp-content/uploads/2020/06/Screen-Shot-2020-06-01-at-2.53.50-PM-1024x574.png"                    width="200" height="120">
-    </td>
-  </tr>
-</table>
-
- <hr>
-
-
+ 
+<img align="center" src= "https://blog.codepath.org/wp-content/uploads/2020/06/Screen-Shot-2020-06-01-at-2.53.50-PM-1024x574.png"                    width="200" height="120">
+   
 
 
 
