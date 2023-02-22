@@ -21,10 +21,8 @@
 
 
 <hr>
-<p><em>💕 Organizations I am a part of:</em></p>
-
 <img src= "https://www.hyperakt.com/assets/images/girls-who-code-annual-report-2021-2/GWC-Card-Assets-1.png" width="300" 
-     height="200">
+     height="200">&nbsp;
 <img src= "https://blog.codepath.org/wp-content/uploads/2020/06/Screen-Shot-2020-06-01-at-2.53.50-PM-1024x574.png" width="300" 
      height="200">
      
