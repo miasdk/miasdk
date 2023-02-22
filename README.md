@@ -1,10 +1,6 @@
 
 - 🎀 Hi, I’m Mia
-- 🦩 I'm a Web and iOS Developer based in NYC
-- 💮 I’m passionate about Design, Film, and Art 
-- 🩰  I’m currently a Bachelor in Computer Science Candidate @ Hunter College & doing freelance web development work.
-- 📱 I’m looking for opportunities in front-end, back-end, and full-stack web development and mobile development in Swift 
-
+- 🦩 I'm a Web developer based in NYC
 <hr>
 
 - 🛼 How to reach me: 
@@ -26,7 +22,6 @@
      height="200">
 <img src= "https://blog.codepath.org/wp-content/uploads/2020/06/Screen-Shot-2020-06-01-at-2.53.50-PM-1024x574.png" width="300" 
      height="200">
- <img src="https://static.wixstatic.com/media/a5019e_3f162defb3ab47a98c20208cf424e3c9~mv2.png/v1/fit/w_2500,h_1330,al_c/a5019e_3f162defb3ab47a98c20208cf424e3c9~mv2.png" width="300" height="200">
      
 
 <!---
