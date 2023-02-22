@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@miaskyelena&theme=dracula&bg_color=00000000&hide_border=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@miaskyelena&theme=react&bg_color=00000000&hide_border=true"/>
 </a>
 
 > "You never get a second chance to make a first impression."</p>
