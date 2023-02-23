@@ -1,5 +1,5 @@
 <h1>Hi, I’m Mia 🍧</h1>
-<p><h3>I'm a web developer & designer based in NYC</h3></p>
+<p><h3>I'm a web developer & designer based in NYC.</h3></p>
 <p><a href = "https://miaelena.netlify.app/">miaelena.com</a><p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=miaskyelena&theme=jolly&show_icons=true&hide_border=true&bg_color=00000000"/>
