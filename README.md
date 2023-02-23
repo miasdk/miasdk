@@ -3,7 +3,7 @@
 <p><a href = "https://miaelena.netlify.app/">miaelena.com</a><p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaskyelena&theme=omni&layout=compact&bg_color=00000000&card_width=500px&custom_title=👩🏻‍💻&nbsp;My&nbsp;Languages&nbsp;&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaskyelena&theme=synthwave&layout=compact&bg_color=00000000&card_width=500px&custom_title=👩🏻‍💻&nbsp;My&nbsp;Languages&nbsp;&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - <h2>🛼 How to reach me:</h2> 
 <p>email: <a href = "mailto: miaskyelena@gmail.com">miaskyelena@gmail.com</a></p>
@@ -11,10 +11,10 @@
 &nbsp;
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miaskyelena&theme=omnit&show_icons=true&hide_border=true&bg_color=00000000"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miaskyelena&theme=synthwave&show_icons=true&hide_border=true&bg_color=00000000"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@miaskyelena&theme=omni&bg_color=00000000&hide_border=true&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@miaskyelena&theme=synthwave&bg_color=00000000&hide_border=true&layout=compact"/>
 </a>
 
 
