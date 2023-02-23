@@ -13,9 +13,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaskyelena&theme=jolly&layout=compact&bg_color=00000000&card_width=440px&custom_title=👩🏻‍💻&nbsp;My&nbsp;Languages&nbsp;&hide_border=true"/>
 </a>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaskyelena&theme=jolly&layout=compact&bg_color=00000000&card_width=440px&custom_title=👩🏻‍💻&nbsp;My&nbsp;Languages&nbsp;&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@miaskyelena&theme=jolly&bg_color=00000000&hide_border=true&layout=compact&card_width=500px"/>
 </a>
