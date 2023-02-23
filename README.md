@@ -1,11 +1,11 @@
-<h1>Hi, I’m Mia 🍧 </h1>
+<h1>Hi, I’m Mia 🌻 </h1>
 <p>I'm a web developer & designer based in NYC.</p>
 <p><a href = "https://miaelena.netlify.app/">miaelena.com</a><p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miaskyelena&theme=apprentice&show_icons=true&hide_border=true&bg_color=00000000"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miaskyelena&theme=dark&show_icons=true&hide_border=true&bg_color=00000000"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@miaskyelena&theme=apprentice&bg_color=00000000&hide_border=true&layout=compact&card_width=500px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@miaskyelena&theme=dark&bg_color=00000000&hide_border=true&layout=compact&card_width=500px"/>
 </a>
 - <h2>🧁 How to reach me:</h2> 
 <p>email: <a href = "mailto: miaskyelena@gmail.com">miaskyelena@gmail.com</a></p>
