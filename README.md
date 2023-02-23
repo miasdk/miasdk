@@ -10,9 +10,7 @@
 - <h2>🧁 How to reach me:</h2> 
 <p>email: <a href = "mailto: miaskyelena@gmail.com">miaskyelena@gmail.com</a></p>
 <p>linkedin: <a href="https://www.linkedin.com/in/miaelena/">Mia Elena</a></p>
-&nbsp;
 
-&nbsp;
 &nbsp;
 > "You never get a second chance to make a first impression."</p>
 > — <cite>Queenie, 'New Horizons'. 
