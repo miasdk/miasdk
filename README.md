@@ -2,7 +2,7 @@
 <p>I'm a web developer & designer based in NYC.</p>
 <p><a href = "https://miaelena.netlify.app/">miaelena.com</a><p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miaskyelena&theme=nightowl&show_icons=true&hide_border=true&bg_color=00000000"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miaskyelena&theme=rose_pine&show_icons=true&hide_border=true&bg_color=00000000"/>
 </a>
 
 - <h2>🛼 How to reach me:</h2> 
@@ -11,11 +11,11 @@
 &nbsp;
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaskyelena&theme=nightowl&layout=compact&bg_color=00000000&card_width=300px&custom_title=👩🏻‍💻&nbsp;My&nbsp;Languages&nbsp;&hide_border=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaskyelena&theme=rose_pine&layout=compact&bg_color=00000000&card_width=300px&custom_title=👩🏻‍💻&nbsp;My&nbsp;Languages&nbsp;&hide_border=true"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@miaskyelena&theme=nightowl&bg_color=00000000&hide_border=true&layout=compact&card_width=500px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@miaskyelena&theme=rose_pine&bg_color=00000000&hide_border=true&layout=compact&card_width=500px"/>
 </a>
 
 
