@@ -2,7 +2,7 @@
 <p>I'm a web developer & designer based in NYC.</p>
 <p><a href = "https://miaelena.netlify.app/">miaelena.com</a><p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miaskyelena&theme=dark&show_icons=true&hide_border=true&bg_color=00000000"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miaskyelena&theme=nightowl&show_icons=true&hide_border=true&bg_color=00000000"/>
 </a>
 - <h2>🧁 How to reach me:</h2> 
 <p>email: <a href = "mailto: miaskyelena@gmail.com">miaskyelena@gmail.com</a></p>
