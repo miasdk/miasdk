@@ -1,4 +1,4 @@
-<h1>Hi, I’m Mia 🍧 </h1>
+<h1>Hi, I’m Mia 🦉 </h1>
 <p>I'm a web developer & designer based in NYC.</p>
 <p><a href = "https://miaelena.netlify.app/">miaelena.com</a><p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
