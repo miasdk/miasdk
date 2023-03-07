@@ -1,4 +1,4 @@
-<h1>Hi, I’m Mia 🍧  </h1>
+<h1>Hi, I’m Mia 🐈 </h1>
 <p>I'm a developer & designer based in NYC.</p>
 How to reach me:
 <p>email: <a href = "mailto: miaskyelena@gmail.com">miaskyelena@gmail.com</a></p>
