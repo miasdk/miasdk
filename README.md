@@ -2,6 +2,7 @@
 <p>I'm a developer & designer based in NYC.</p>
 How to reach me:
 <br>
+
 <p>email: <a href = "mailto: miaskyelena@gmail.com">miaskyelena@gmail.com</a></p>
 <p>linkedin: <a href="https://www.linkedin.com/in/miaelena/">Mia Elena</a></p>
 <p><a href="https://miaelena.netlify.app">miaelena.com</a></p>
