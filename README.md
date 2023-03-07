@@ -1,4 +1,4 @@
-<h1>Hi, I’m Mia 🐈 </h1>
+<h1>Hi, I’m Mia </a><a href="https://www.youtube.com/watch?v=Sg8FMNEt8KY"><img src="https://64.media.tumblr.com/998f0e88cbae879ef7c23117d1956b43/5ad9d0a1f6f6c89b-82/s250x400/5c2d0807c4c0da9007b0acd96cb38b24dbb92378.gifv" width="60" height="60"></a>  </h1>
 <p>I'm a developer & designer based in NYC.</p>
 How to reach me:
 <p>email: <a href = "mailto: miaskyelena@gmail.com">miaskyelena@gmail.com</a></p>
@@ -12,7 +12,7 @@ How to reach me:
  <br>
  
   
-</a><a href="https://www.youtube.com/watch?v=Sg8FMNEt8KY"><img src="https://64.media.tumblr.com/998f0e88cbae879ef7c23117d1956b43/5ad9d0a1f6f6c89b-82/s250x400/5c2d0807c4c0da9007b0acd96cb38b24dbb92378.gifv" width="60" height="60"></a> 
+
  
 <!---
 miaskyelena/miaskyelena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
