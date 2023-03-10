@@ -4,12 +4,12 @@
 <p><a href="https://miaelena.netlify.app">miaelena.com</a></p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miaskyelena&theme=radical&show_icons=true&hide_border=true&bg_color=00000000"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miaskyelena&theme=github_dark&show_icons=true&hide_border=true&bg_color=00000000"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@miaskyelena&theme=radical&bg_color=00000000&hide_border=true&layout=compact&card_width=500px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@miaskyelena&theme=github_dark&bg_color=00000000&hide_border=true&layout=compact&card_width=500px"/>
  <br>
- 🐈
+ 
   
 
  
