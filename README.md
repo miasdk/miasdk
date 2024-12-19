@@ -24,7 +24,7 @@ const aboutMe = {
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-&nbsp;
+<br />
 <a href="[your_special_location]">
   <img src="https://github.com/user-attachments/assets/d84268c5-6e03-45b4-a6d6-ba2b38b8c99c" alt="Fauna" height="50px" width="50px" style="float: right; margin-right: 20px;">
 </a>
