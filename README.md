@@ -21,8 +21,11 @@ const aboutMe = {
 ```
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/miaskyelena/contribution_snk/output/github-contribution-grid-snake.svg)
 ![](https://visitcount.itsvg.in/api?id=miasdk&icon=3&color=1) 
+
+--------------
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+--------------
 
 <a href="[your_special_location]">
   <img src="https://github.com/user-attachments/assets/d84268c5-6e03-45b4-a6d6-ba2b38b8c99c" alt="Fauna" height="50px" width="50px" style="float: right; margin-right: 20px;">
