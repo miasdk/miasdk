@@ -23,9 +23,6 @@ const aboutMe = {
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<br />
-
 ![](https://visitcount.itsvg.in/api?id=miasdk&icon=3&color=1) <br/>
 
 <a href="[your_special_location]">
