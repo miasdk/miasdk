@@ -24,4 +24,3 @@ const aboutMe = {
   <img src="https://github.com/user-attachments/assets/17116acc-fa89-4380-a67d-3758489aad69" alt="Fauna" height="50px" width="50px" style="margin: auto">
 </a>
 
-![fauna3](https://github.com/user-attachments/assets/17116acc-fa89-4380-a67d-3758489aad69)
