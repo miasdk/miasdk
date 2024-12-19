@@ -19,16 +19,12 @@ const aboutMe = {
     }
 }
 ```
+## 📊 GitHub Stats:
 
-**Here's a quick glimpse into my GitHub stats:**
-
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/miasdk" target="_blank" rel="noopener noreferrer">
-    <img style="width: 350px; height: 250px;" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=miasdk&theme=transparent&show_icons=true" />
-  </a>
-  <a href="https://github.com/miasdk/top-langs" target="_blank" rel="noopener noreferrer">
-    <img style="width: 350px; height: 250px;" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miasdk&layout=compact&theme=transparent" />
-  </a>
+<div style="display: flex; justify-content: center;">
+    <img src="https://github-stats-vanshb03.vercel.app/api?username=miasdk&hide=stars&count_private=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" style="margin-right: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=miasdk&theme=transparent&hide_border=true" style="margin-right: 10px;">
 </div>
 
+![](https://visitcount.itsvg.in/api?id=vanshb03&icon=3&color=1)
 **Want to see my code?** Head over to my GitHub profile: [Mia Elena (miasdk)](https://github.com/miasdk)
