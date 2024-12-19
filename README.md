@@ -14,7 +14,7 @@ const aboutMe = {
     workingOn: 'eCart',
     learning: 'API development 🌐 and complex database queries in SQL 🔍',
     socials: {
-        linkedin: '[https://www.linkedin.com/in/miaelena/](https://www.linkedin.com/in/miaelena/)',
+        linkedin: 'https://www.linkedin.com/in/miaelena',
         email: 'miaelenatapia@gmail.com',
     }
 }
