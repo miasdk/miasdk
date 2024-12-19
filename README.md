@@ -12,7 +12,7 @@ const aboutMe = {
         prev: 'Computer Science @ Hunter College'
     },
     workingOn: 'eCart',
-    learning: 'API development and complex database queries',
+    learning: 'API development and complex database queries in SQL',
     socials: {
         linkedin: 'https://www.linkedin.com/in/miaelena/',
         email: 'miaelenatapia@gmail.com',
