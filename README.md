@@ -1,4 +1,4 @@
-### Hi there 👋🏻
+### Hi, I'm Mia 👋🏻
 ```javascript
 const aboutMe = {
     name: {
