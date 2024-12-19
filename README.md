@@ -26,4 +26,5 @@ const aboutMe = {
   <img src="https://github.com/user-attachments/assets/d84268c5-6e03-45b4-a6d6-ba2b38b8c99c" alt="Fauna" height="50px" width="50px" style="float: right; margin-right: 20px;">
 </a>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=miasdk)](https://git.io/streak-stats)
 [miasdk](https://github.com/miasdk) 
