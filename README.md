@@ -21,3 +21,4 @@ const aboutMe = {
 ```
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miasdk&theme=dracula&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miasdk&theme=dracula&layout=compact)
