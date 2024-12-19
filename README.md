@@ -19,9 +19,6 @@ const aboutMe = {
     }
 }
 ```
-## 📊 GitHub Stats:
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=miasdk)](https://git.io/streak-stats)
 
 ![](https://visitcount.itsvg.in/api?id=miasdk&icon=3&color=1)
-**Want to see my code?** Head over to my GitHub profile: [Mia Elena (miasdk)](https://github.com/miasdk)
