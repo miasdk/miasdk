@@ -23,4 +23,20 @@ const aboutMe = {
 ![](https://visitcount.itsvg.in/api?id=miasdk&icon=3&color=1) <a href="[your_special_location]">
   <img src="https://github.com/user-attachments/assets/17116acc-fa89-4380-a67d-3758489aad69" alt="Fauna" height="50px" width="50px" style="margin: auto">
 </a>
-
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/17116acc-fa89-4380-a67d-3758489aad69" alt="Fauna" height="50px" width="50px"> 
+  <div style="position: relative; left: -50px;"> 
+    <div style="border-radius: 10px; background-color: #F2F2F2; padding: 10px;">
+      Hey there! I'm Mia Elena (she/her). 
+      <br>
+      Check out my projects and connect with me! 
+      <br>
+      [link to your website] (optional) 
+      <br>
+      Email: miaelenatapia@gmail.com 
+      <br>
+      LinkedIn: <a href="https://www.linkedin.com/in/miaelena">Mia Elena</a>
+    </div>
+    <div style="position: absolute; top: -10px; left: 10px; width: 0; height: 0; border-top: 10px solid transparent; border-right: 10px solid #F2F2F2;"></div> 
+  </div>
+</div>
