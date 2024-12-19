@@ -22,4 +22,4 @@ const aboutMe = {
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/miaskyelena/contribution_snk/output/github-contribution-grid-snake.svg)
 ![](https://visitcount.itsvg.in/api?id=miasdk&icon=3&color=1)
 
-![fauna1](https://github.com/user-attachments/assets/ae68d2ad-c06e-4ea2-aa91-0167276e4e36)
+![fauna2](https://your-actual-image-url.com) { style="width: 200px; height: 200px;" }
