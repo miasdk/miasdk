@@ -23,9 +23,12 @@ const aboutMe = {
 **Here's a quick glimpse into my GitHub stats:**
 
 <div style="display: flex; justify-content: space-between;">
-  <div class="stat-card" style="background-image: url('https://github-readme-stats.vercel.app/api?username=miasdk&theme=transparent&show_icons=true');"></div>
-  <div class="stat-card" style="background-image: url('https://github-readme-stats.vercel.app/api/top-langs/?username=miasdk&layout=compact&theme=transparent');"></div>
-
-  </div>
+  <a href="https://github.com/miasdk" target="_blank" rel="noopener noreferrer">
+    <img style="width: 350px; height: 250px;" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=miasdk&theme=transparent&show_icons=true" />
+  </a>
+  <a href="https://github.com/miasdk/top-langs" target="_blank" rel="noopener noreferrer">
+    <img style="width: 350px; height: 250px;" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miasdk&layout=compact&theme=transparent" />
+  </a>
+</div>
 
 **Want to see my code?** Head over to my GitHub profile: [Mia Elena (miasdk)](https://github.com/miasdk)
