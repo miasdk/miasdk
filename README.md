@@ -20,8 +20,8 @@ const aboutMe = {
 }
 ```
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miasdk&theme=calm_pink&show_icons=true&card_width=700&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miasdk&layout=compact&theme=calm_pink&bg_color=00000000&height=500)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miasdk&theme=transparent&show_icons=true&card_width=700)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miasdk&layout=compact&theme=transparent&height=500)
 
 
 
