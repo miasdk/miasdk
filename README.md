@@ -21,7 +21,7 @@ const aboutMe = {
 ```
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/miaskyelena/contribution_snk/output/github-contribution-grid-snake.svg)
 ![](https://visitcount.itsvg.in/api?id=miasdk&icon=3&color=1) <a href="[your_special_location]">
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; background-color: #eee; border: 2px solid #ccc; padding: 15px; border-radius: 10px;">
   <div style="position: relative; background-color: #eee; border: 2px solid #ccc; padding: 15px; border-radius: 10px;  width: max-content;">  Hey there! I'm Mia Elena (she/her). 
     <br>
     Check out my projects and connect with me! 
