@@ -19,5 +19,10 @@ const aboutMe = {
     }
 }
 ```
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=miasdk)](https://git.io/streak-stats)
+
+
 ![](https://visitcount.itsvg.in/api?id=miasdk&icon=3&color=1)
