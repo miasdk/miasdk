@@ -18,6 +18,7 @@ const aboutMe = {
         email: 'miaelenatapia@gmail.com',
     }
 }
+```
 
 **Here's a quick glimpse into my GitHub stats:**
 
