@@ -21,7 +21,7 @@ const aboutMe = {
 
 ```
 <a href="[your_special_location]">
-  <img src="https://github.com/user-attachments/assets/85262f58-a852-4d50-bdd5-ee9c779167cb" alt="Fauna" height="50px" width="50px" style="margin: 0">
+  <img src="https://github.com/user-attachments/assets/85262f58-a852-4d50-bdd5-ee9c779167cb" alt="Fauna" height="50px" width="50px" style="margin: auto">
 </a>
 
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/miaskyelena/contribution_snk/output/github-contribution-grid-snake.svg)
