@@ -11,7 +11,7 @@ const aboutMe = {
         prev: 'Computer Science @ Hunter College 🎓'
     },
     workingOn: 'eCart',
-    learning: 'APIs, postgreSQL, Typescript 🌐',
+    learning: 'Relational databases, Advanced Jacvascript 🌐',
     socials: {
         linkedin: 'https://www.linkedin.com/in/miaelena',
         email: 'miaelenatapia@gmail.com',
