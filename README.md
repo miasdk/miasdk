@@ -11,7 +11,7 @@ const aboutMe = {
         prev: 'Computer Science @ Hunter College 🎓'
     },
     workingOn: 'eCart',
-    learning: 'Relational databases, Advanced Jacvascript 🌐',
+    learning: 'Working with relational databases, Advanced concepts in Javascript and C++ 🌐',
     socials: {
         linkedin: 'https://www.linkedin.com/in/miaelena',
         email: 'miaelenatapia@gmail.com',
