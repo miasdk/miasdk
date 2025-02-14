@@ -19,7 +19,5 @@ const aboutMe = {
 }
 
 ```
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/miaskyelena/contribution_snk/output/github-contribution-grid-snake.svg)
-![](https://visitcount.itsvg.in/api?id=miasdk&icon=3&color=1) <br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=miasdk&theme=trasnparent)](https://git.io/streak-stats)
 
