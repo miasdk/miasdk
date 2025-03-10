@@ -20,5 +20,3 @@ const aboutMe = {
 
 ```
 [![GitHub Streak](https://streak-stats.demolab.com/?user=miasdk&theme=trasnparent)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miasdk&langs_count=8)
