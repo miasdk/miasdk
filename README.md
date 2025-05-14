@@ -7,10 +7,10 @@ const aboutMe = {
         pronouns: 'she/her/hers',
     },
     experience: {
-        curr: 'Building a Full-Stack Ecommerce Platform 🛒',
+        curr: 'Software Engineering Resident @ Headstarter',
         prev: 'Computer Science @ Hunter College 🎓'
     },
-    workingOn: 'eCart',
+    workingOn: 'LLM/ML',
     learning: 'Typescript, Python, AI/ML ',
     socials: {
         linkedin: 'https://www.linkedin.com/in/miaelena',
