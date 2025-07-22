@@ -33,7 +33,7 @@ const aboutMe = {
 }
 ```
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Healthcare Management System](https://github.com/miasdk/healthcare-hub) 
 **Django • PostgreSQL • React • TypeScript • Docker**
@@ -62,12 +62,12 @@ const aboutMe = {
 - Mobile-first responsive design with modern UI/UX
 - Showcases technical projects and professional experience
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=miasdk&theme=transparent)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miasdk&layout=compact&theme=transparent)
 
-## 💻 Technical Skills
+## Technical Skills
 
 **Languages:** Python, JavaScript, TypeScript, SQL, HTML/CSS  
 **Backend:** Django, Node.js, Express, Flask, RESTful APIs  
@@ -76,7 +76,7 @@ const aboutMe = {
 **Cloud/DevOps:** AWS, Docker, Vercel, Railway, CI/CD  
 **Tools:** Git, Jest, OAuth 2.0, Celery, Redis, Jira
 
-## 🏥 Domain Expertise
+## Domain Expertise
 - **Healthcare Technology:** HIPAA compliance, FHIR standards, medical data processing
 - **E-commerce:** Payment processing, inventory management, user authentication
 - **Financial Technology:** Secure transactions, data analytics, user experience
