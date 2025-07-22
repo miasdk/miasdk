@@ -81,7 +81,7 @@ const aboutMe = {
 - **E-commerce:** Payment processing, inventory management, user authentication
 - **Financial Technology:** Secure transactions, data analytics, user experience
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 💼 **Actively seeking entry-level software engineering roles in NYC/Remote**  
 📧 **Email:** miariccidev@gmail.com  
