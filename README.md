@@ -1,34 +1,5 @@
 ### Hi, I'm Mia 👋🏻
 
-## Featured Projects
-
-### [Healthcare Management System](https://github.com/miasdk/healthcare-hub) 
-**Django • PostgreSQL • React • TypeScript • Docker**
-- HIPAA-compliant healthcare application with normalized database schema
-- FHIR R4-compliant data models and APIs for healthcare interoperability  
-- AI-powered PDF document processing using Mistral AI and spaCy
-- Deployed containerized application on AWS infrastructure
-
-### [E-commerce Platform](https://github.com/miasdk/ecommerce-platform)
-**React • Node.js • PostgreSQL • Stripe**
-- Production platform with 30+ API endpoints and real-time features
-- Stripe payment integration with Google OAuth authentication
-- Full-text search, cart management, and social commerce features
-- CI/CD deployment with comprehensive Swagger documentation
-
-### [Personal Job Intelligence Tool](https://github.com/miasdk/job-scraper)
-**Django • Celery • Redis • PostgreSQL**
-- Automated job scraping from multiple sources with intelligent scoring
-- Background task processing for daily job digest emails
-- Personalized matching algorithm based on skills and preferences
-- RESTful API with Django REST Framework
-
-### [Portfolio Website](https://miaelena.vercel.app)
-**Next.js • TypeScript • TailwindCSS**
-- SEO-optimized portfolio with 100/100 Lighthouse score
-- Mobile-first responsive design with modern UI/UX
-- Showcases technical projects and professional experience
-
 ## GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=miasdk&theme=transparent)](https://git.io/streak-stats)
