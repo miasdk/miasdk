@@ -43,17 +43,6 @@
 **Cloud/DevOps:** AWS, Docker, Vercel, Railway, CI/CD  
 **Tools:** Git, Jest, OAuth 2.0, Celery, Redis, Jira
 
-## Domain Expertise
-- **Healthcare Technology:** HIPAA compliance, FHIR standards, medical data processing
-- **E-commerce:** Payment processing, inventory management, user authentication
-- **Financial Technology:** Secure transactions, data analytics, user experience
-
-## Let's Connect!
-
-💼 **Actively seeking entry-level software engineering roles in NYC/Remote**  
-📧 **Email:** miariccidev@gmail.com  
-🔗 **Portfolio:** [miaelena.vercel.app](https://miaelena.vercel.app)  
-💙 **LinkedIn:** [linkedin.com/in/miaelena](https://linkedin.com/in/miaelena)
 
 ---
 *"Building scalable applications and contributing to open source while seeking opportunities to grow as a software engineer"*
